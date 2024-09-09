@@ -25,8 +25,6 @@ After ensuring you have EnergyPlus installed, and python >= v3.8, simply run
     pip install simstock
 ```
 
-in the command line.
-
 
 ## Usage
 
